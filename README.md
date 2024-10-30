@@ -56,7 +56,7 @@ If your feature isn’t listed in the product roadmap, check our dedicated [feed
 <table><tbody>
 <tr>
   <td><b>Blazor DataGrid Component</b></td>
-  <td><a href="https://www.telerik.com/blazor-ui/grid?utm_medium=referral&utm_source=github&utm_campaign=blazor-awareness-components-examples-github">Gird Features</a></td>
+  <td><a href="https://www.telerik.com/blazor-ui/grid?utm_medium=referral&utm_source=github&utm_campaign=blazor-awareness-components-examples-github">Grid Features</a></td>
   <td><a href="https://docs.telerik.com/blazor-ui/components/grid/overview?utm_medium=referral&utm_source=github&utm_campaign=blazor-awareness-components-examples-github">Data Grid Documentation</td>
   <td><a href="https://demos.telerik.com/blazor-ui/grid/overview?utm_medium=referral&utm_source=github&utm_campaign=blazor-awareness-components-examples-github">Data Grid Demos</td>
 </tr>
